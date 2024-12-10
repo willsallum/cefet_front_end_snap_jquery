@@ -281,8 +281,8 @@ let $primeiraMarcacao = $marcacoes.first();
 [baixe-aqui]: https://github.com/willsallum/cefet_front_end_snap/archive/main.zip
 [posicao-mouse]: https://api.jquery.com/mousemove/#mousemove-handler
 [incluindo-biblioteca]: https://willsallum.github.io/cefet_front_end/classes/js6/#incluindo-a-biblioteca-jquery
-[eventos-jquery]: https://willsallum.github.io/cefet_front_end/classes/js6/#jquery-atribuindo-eventos
-[jquery-alterar-html]: https://willsallum.github.io/cefet_front_end/classes/js6/#jquery-funcionamento-basico
-[jquery-css]: https://willsallum.github.io/cefet_front_end/classes/js6/#jquery-estilizando-elementos
+[eventos-jquery]: https://willsallum.github.io/cefet_front_end/classes/js6/#atribuindo-eventos
+[jquery-alterar-html]: https://willsallum.github.io/cefet_front_end/classes/js6/#funcionamento-básico-e-seletores-13
+[jquery-css]: https://willsallum.github.io/cefet_front_end/classes/js6/#estilizando-elementos
 [jquery-css-api]: https://api.jquery.com/css/#css2
 [jquery-first]: https://api.jquery.com/first/#first
