@@ -275,7 +275,7 @@ Alternativamente, em vez de usar `$($marcacoes[0])`, poderíamos usar o [método
 let $primeiraMarcacao = $($marcacoes[0]);
 
 // ...é equivalente a:
-let $primeiraMarcacao = $marcacoes.first();
+let $primeiraMarcacao = $marcacoes.first(); 
 ```
 
 [baixe-aqui]: https://github.com/willsallum/cefet_front_end_snap/archive/main.zip
