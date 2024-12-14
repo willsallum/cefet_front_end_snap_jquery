@@ -278,7 +278,7 @@ let $primeiraMarcacao = $($marcacoes[0]);
 let $primeiraMarcacao = $marcacoes.first(); 
 ```
 
-[baixe-aqui]: https://github.com/willsallum/cefet_front_end_snap/archive/main.zip
+[baixe-aqui]: https://github.com/willsallum/cefet_front_end_snap_jquery/archive/main.zip
 [posicao-mouse]: https://api.jquery.com/mousemove/#mousemove-handler
 [incluindo-biblioteca]: https://willsallum.github.io/cefet_front_end/classes/js6/#incluindo-a-biblioteca-jquery
 [eventos-jquery]: https://willsallum.github.io/cefet_front_end/classes/js6/#atribuindo-eventos
